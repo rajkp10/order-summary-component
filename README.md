@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-order-summary-rajkp10.netlify.app
+https://order-summary-rajkp10.netlify.app/
 
 ## About Project
 
